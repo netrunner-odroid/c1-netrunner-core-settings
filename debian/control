@@ -1,13 +1,13 @@
-Source: c1-netrunner-full-settings
+Source: c1-netrunner-core-settings
 Section: unknown
 Priority: optional
 Maintainer: Rohan Garg <rohan@kde.org>
 Build-Depends: debhelper (>=9)
 Standards-Version: 3.9.6
-Homepage: https://github.com/netrunner-odroid/c1-netrunner-full-settings
+Homepage: https://github.com/netrunner-odroid/c1-netrunner-core-settings
 
-Package: c1-netrunner-full-settings
+Package: c1-netrunner-core-settings
 Architecture: armhf
 Depends: netrunner-default-settings, novnc, ${misc:Depends}
-Description: netrunner-full edition settings for ODROID-C1
+Description: netrunner-core edition settings for ODROID-C1
  Netrunner Full specific settings for the ODROID-C1
