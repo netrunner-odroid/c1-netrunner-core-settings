@@ -1,5 +1,0 @@
-[Desktop Entry]
-Exec=websockify -D --ssl-target --web /usr/share/novnc/ 5900 -- x11vnc -forever -shared -find -unixpw -avahi -loop
-Terminal=false
-Type=Application
-X-DBUS-StartupType=unique

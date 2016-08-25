@@ -8,6 +8,6 @@ Homepage: https://github.com/netrunner-odroid/c1-netrunner-core-settings
 
 Package: c1-netrunner-core-settings
 Architecture: armhf
-Depends: netrunner-default-settings, novnc, ${misc:Depends}
+Depends: netrunner-default-settings, ${misc:Depends}
 Description: netrunner-core edition settings for ODROID-C1
  Netrunner Full specific settings for the ODROID-C1
